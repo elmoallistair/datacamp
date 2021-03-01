@@ -1,0 +1,4 @@
+## Course Description
+
+As a data scientist, you will encounter many situations where you will need to extract key information from huge corpora of text, clean messy data containing strings, or detect and match patterns to find useful words. All of these situations are part of text mining and are an important step before applying machine learning algorithms. This course will take you through understanding compelling concepts about string manipulation and regular expressions. You will learn how to split strings, join them back together, interpolate them, as well as detect, extract, replace, and match strings using regular expressions. On the journey to master these skills, you will work with datasets containing movie reviews or streamed tweets that can be used to determine opinion, as well as with raw text scraped from the web.
+
