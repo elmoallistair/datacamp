@@ -1,3 +1,3 @@
-## Course Description
+## [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python)
 
 Have you got your basic Python programming chops down for Data Science but are yearning for more? Then this is the course for you. Herein, you'll consolidate and practice your knowledge of lists, dictionaries, tuples, sets, and date times. You'll see their relevance in working with lots of real data and how to leverage several of them in concert to solve multistep problems, including an extended case study using Chicago metropolitan area transit data. You'll also learn how to use many of the objects in the Python Collections module, which will allow you to store and manipulate your data for a variety of Data Scientific purposes. After taking this course, you'll be ready to tackle many Data Science challenges Pythonically.

@@ -1,0 +1,3 @@
+## [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2)
+
+In this second Python Data Science Toolbox course, you'll continue to build your Python data science skills. First, you'll learn about iterators, objects you have already encountered in the context of for loops. You'll then learn about list comprehensions, which are extremely handy tools for all data scientists working in Python. You'll end the course by working through a case study in which you'll apply all the techniques you learned in both parts of this course.

@@ -1,3 +1,3 @@
-## Course Description
+## [Web Scraping in Python](https://learn.datacamp.com/courses/web-scraping-with-python)
 
 The ability to build tools capable of retrieving and parsing information stored across the internet has been and continues to be valuable in many veins of data science. In this course, you will learn to navigate and parse html code, and build tools to crawl websites automatically. Although our scraping will be conducted using the versatile Python library scrapy, many of the techniques you learn in this course can be applied to other popular Python libraries as well, including BeautifulSoup and Selenium. Upon the completion of this course, you will have a strong mental model of html structure, will be able to build tools to parse html code and access desired information, and create a simple scrapy spiders to crawl the web at scale.
