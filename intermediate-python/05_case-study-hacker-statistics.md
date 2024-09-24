@@ -151,7 +151,7 @@ plt.show()
 all_walks = []
 
 # Simulate random walk 10 times
-for i in range(10) :
+for i in range(5) :
 
     # Code from before
     random_walk = [0]
