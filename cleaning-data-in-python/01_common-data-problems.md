@@ -60,7 +60,7 @@ print(ride_sharing['tire_sizes'].head())
 
 ```
 # Convert ride_date to datetime
-ride_sharing['ride_dt'] = pd.to_datetime(ride_sharing['ride_date'])
+ride_sharing['ride_dt'] = pd.to_datetime(ride_sharing['ride_date']).dt.date
 
 # Save today's date
 today = dt.date.today()
